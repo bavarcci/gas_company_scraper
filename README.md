@@ -1,4 +1,3 @@
-```markdown
 # Gas Company Scraper
 
 A simple Python tool to find and scrape info from natural gas company websites (focus on Russia, but you can change that).
@@ -49,4 +48,3 @@ A simple Python tool to find and scrape info from natural gas company websites (
 ## License
 
 MIT – do whatever you want, just don't blame me if it breaks!!!
-```
